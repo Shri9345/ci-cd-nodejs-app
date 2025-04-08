@@ -11,7 +11,8 @@ GitHub Actions – CI/CD Workflow Automation
 Node.js – Sample Web Application
 Docker – Containerization
 DockerHub – Image Hosting
-Final Output
+
+**Final Output**
 
 A Dockerized Node.js app
 
